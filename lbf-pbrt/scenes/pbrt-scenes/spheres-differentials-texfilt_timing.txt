@@ -1,0 +1,4 @@
+Render Time: 13.532741 sec
+Feature Extraction Time: 12.934819 sec
+NN/Filter Time: 17.659337 sec
+Total Time: 44.245098 sec
